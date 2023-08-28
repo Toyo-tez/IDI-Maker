@@ -1,16 +1,20 @@
-.todo{
-    max-width: 100%;
-    height: 100%;
-    width: 100%;
+.todo {
+  max-width: 100%;
+  height: 100%;
+  width: 100%;
 }
-.socorro {
-    position: absolute;
-    top: 50px;
-    left: 30px;
-
+.image-button img {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 673px;
+  left: 1090px;
+  width: 17%;
+  height: 25%;
 }
 .hola {
-    margin: 500px;
-    padding:500px;
-
+  margin: 500px;
+  padding: 500px;
 }
