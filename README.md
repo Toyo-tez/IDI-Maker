@@ -8,5 +8,4 @@ Web facherita sobre el evento de IDI para el Maker
 - [ ] Minijuego de las impresoras.
 - [ ] Mapa de las impresoras 3D
 - [ ] Instrucciones de las impresoras 
-- [ ] Botones para cada parte de la impresoras 
-- [ ] 
+- [ ] Botones para cada parte de la impresoras-
