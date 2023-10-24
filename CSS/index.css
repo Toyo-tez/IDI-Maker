@@ -9,12 +9,74 @@
   padding: 0;
   cursor: pointer;
   position: absolute;
-  top: 673px;
-  left: 1090px;
+  top: 65%;
+  left: 57.5%;
   width: 17%;
   height: 25%;
+}
+
+.salida img {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 12%;
+  height: 25%;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  transition: filter 0.25s ease-in;
+}
+
+.adentro img {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 48%;
+  left: 62%;
+  width: 6%;
+  height: 14%;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  transition: filter 0.25s ease-in;
+}
+.adentro:hover img {
+  -webkit-filter: invert(70%);
+  filter: invert(70%);
+}
+.salida:hover img {
+  -webkit-filter: invert(50%);
+  filter: invert(50%);
 }
 .hola {
   margin: 500px;
   padding: 500px;
+}
+
+.ver-impresoras img {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 45%;
+  left: 48%;
+  width: 3.5%;
+  height: 8%;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  transition: filter 0.25s ease-in;
+}
+
+.ver-impresoras:hover img {
+  -webkit-filter: invert(0%);
+  filter: invert(0%);
+}
+
+.fade {
+  transition: opacity 0.5s ease-in-out;
 }
