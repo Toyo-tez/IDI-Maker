@@ -6,3 +6,4 @@ Web facherita sobre el evento de IDI para el Maker
 - [x] Mapa de la escuela funcional.
 - [ ] Añadir botones.
 - [ ] Parte del juego. 
+- [ ] Terminar mapa con todos las aulas
