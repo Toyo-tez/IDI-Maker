@@ -3,7 +3,22 @@
   height: 100%;
   width: 100%;
 }
-.image-button img {
+#maker-icon {
+  position: absolute;
+  top: 0.5px;
+  left: 0.8px;
+  width: 1280px;
+  height: 800px;
+}
+#informatic-icon {
+  position: absolute;
+  top: 0.5px;
+  left: 0.3px;
+  width: 1280px;
+  height: 800px;
+}
+
+/*maker-icon {
   background: none;
   border: none;
   padding: 0;
@@ -11,11 +26,11 @@
   position: absolute;
   top: 65%;
   left: 57.5%;
-  width: 17%;
-  height: 25%;
+  width: 5%;
+  height: 5%;
 }
-
-.salida img {
+*/
+.salida {
   background: none;
   border: none;
   padding: 0;
@@ -30,7 +45,7 @@
   transition: filter 0.25s ease-in;
 }
 
-.adentro img {
+.adentro {
   background: none;
   border: none;
   padding: 0;
@@ -44,11 +59,11 @@
   filter: invert(100%);
   transition: filter 0.25s ease-in;
 }
-.adentro:hover img {
+.adentro:hover  {
   -webkit-filter: invert(70%);
   filter: invert(70%);
 }
-.salida:hover img {
+.salida:hover {
   -webkit-filter: invert(50%);
   filter: invert(50%);
 }
@@ -57,7 +72,7 @@
   padding: 500px;
 }
 
-.ver-impresoras img {
+.ver-impresoras {
   background: none;
   border: none;
   padding: 0;
@@ -72,7 +87,7 @@
   transition: filter 0.25s ease-in;
 }
 
-.ver-impresoras:hover img {
+.ver-impresoras:hover  {
   -webkit-filter: invert(0%);
   filter: invert(0%);
 }
