@@ -1,0 +1,22 @@
+.n{
+
+position: absolute;
+top: 600px;
+left: 10px;
+
+}
+
+.body {
+    font-family: Arial, sans-serif;
+}
+.n {
+    border: 2px solid #4c91e6fa;
+    padding: 10px;
+    width: 1200px;
+    background-color: #f9f9f900;
+}
+
+.w {
+    padding: 10px;
+    width: 300px;
+   }
