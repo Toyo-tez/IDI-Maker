@@ -3,6 +3,47 @@
   height: 100%;
   width: 100%;
 }
+
+#a1-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 800px;
+  opacity: 100%;
+}
+
+#lab-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 800px;
+}
+
+#lunch-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 800px;
+}
+
+#sport-icon {
+  position: absolute;
+  top: -207px;
+  left: -174px;
+  width: 1280px;
+  height: 800px;
+}
+
+#art-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 800px;
+}
 #maker-icon {
   position: absolute;
   top: 0.5px;
@@ -59,7 +100,7 @@
   filter: invert(100%);
   transition: filter 0.25s ease-in;
 }
-.adentro:hover  {
+.adentro:hover {
   -webkit-filter: invert(70%);
   filter: invert(70%);
 }
@@ -87,7 +128,7 @@
   transition: filter 0.25s ease-in;
 }
 
-.ver-impresoras:hover  {
+.ver-impresoras:hover {
   -webkit-filter: invert(0%);
   filter: invert(0%);
 }
