@@ -4,10 +4,19 @@
   width: 100%;
 }
 
+#huerta-icon {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 1280px;
+  height: 800px;
+}
+
+
 #a1-icon {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: -7px;
+  left: -5px;
   width: 1280px;
   height: 800px;
   opacity: 100%;
@@ -15,24 +24,24 @@
 
 #lab-icon {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: -7px;
+  left: -12px;
   width: 1280px;
   height: 800px;
 }
 
 #lunch-icon {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: -6px;
+  left: -4px;
   width: 1280px;
   height: 800px;
 }
 
 #sport-icon {
   position: absolute;
-  top: -207px;
-  left: -174px;
+  top: -210px;
+  left: -182px;
   width: 1280px;
   height: 800px;
 }
@@ -46,8 +55,8 @@
 }
 #maker-icon {
   position: absolute;
-  top: 0.5px;
-  left: 0.8px;
+  top: -8px;
+  left: -11px;
   width: 1280px;
   height: 800px;
 }
